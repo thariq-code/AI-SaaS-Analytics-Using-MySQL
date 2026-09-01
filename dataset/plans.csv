@@ -1,0 +1,5 @@
+plan_id,plan_name,billing_cycle,monthly_price,user_limit,ai_features
+1,Starter,Monthly,29.0,5,AI Assistant
+2,Growth,Monthly,79.0,25,"AI Assistant, Analytics"
+3,Professional,Monthly,199.0,100,"Advanced AI, Analytics, API"
+4,Enterprise,Monthly,499.0,500,"Advanced AI, API, Priority Support"
