@@ -412,57 +412,34 @@ Validation includes:
 
 # 🖼️ Project Screenshots
 
-## ER Diagram
+## Project Screenshots
 
-The ER diagram represents the relationships between customers, subscriptions, plans, payments, AI usage, and support tickets.
+### ER Diagram
+![ER Diagram](./screenshots/ER%20Diagram.png)
 
-![ER Diagram](screenshots/ER_Diagram.png)
+### Database Tables
+![Tables](./screenshots/Tables.png)
 
----
+### Database Views
+![Views](./screenshots/Views.png)
 
-## Database Tables
+### Stored Procedures
+![Stored Procedures](./screenshots/Stored%20Procedures.png)
 
-![Database Tables](screenshots/Tables.png)
+### Database Triggers
+![Triggers](./screenshots/Triggers.png)
 
----
+### Final Analytics
+![Final Analytics](./screenshots/Final%20Analytics.png)
 
-## Database Views
+### Top Query 1
+![Top Query 1](./screenshots/Top%20Query%201.png)
 
-![Database Views](screenshots/Views.png)
+### Top Query 2
+![Top Query 2](./screenshots/Top%20Query%202.png)
 
----
-
-## Stored Procedures
-
-![Stored Procedures](screenshots/Stored_Procedures.png)
-
----
-
-## Database Triggers
-
-![Database Triggers](screenshots/Triggers.png)
-
----
-
-## Business Analytics
-
-![Business Analytics](screenshots/Final_Analytics.png)
-
----
-
-## Advanced SQL Analysis
-
-### Customer Revenue Ranking
-
-![Customer Revenue Ranking](screenshots/Top_Query_One.png)
-
-### Top Revenue Customer by Industry
-
-![Top Revenue Customer by Industry](screenshots/Top_Query_Two.png)
-
-### Customer Business Profile
-
-![Customer Business Profile](screenshots/Top_Query_Three.png)
+### Top Query 3
+![Top Query 3](./screenshots/Top%20Query%203.png)
 
 ---
 
